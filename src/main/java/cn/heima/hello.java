@@ -8,5 +8,4 @@ public class hello {
         System.out.println(222222);
         System.out.println(333333);
     }
-
 }
